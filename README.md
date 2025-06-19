@@ -1,4 +1,4 @@
-## Hi, I'm Chris, Building in IT, Networking, Cybersecurity
+## Hi, I'm Chris. Building in IT, Networking, Cybersecurity
 
 <!--
 **cyberchris01/cyberchris01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
