@@ -1,4 +1,4 @@
-## Hi, I'm Chris, an IT Professional
+## Hi, I'm Chris, currently building in IT, Networking, Cybersecurity
 
 <!--
 **cyberchris01/cyberchris01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
