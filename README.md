@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b> ☁️
    - [Creating Resources (Virtual Machines) in Azure](https://github.com/cyberchris01/azure-resources)
    - [Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/cyberchris01/azure-network-protocols)
-   - [Configuring On-premises Active Directory Infrastructure within Azure VMs](https://github.com/cyberchris01/configure-ad)
+   - [Configuring On-premises Active Directory Infrastructure with Azure VMs](https://github.com/cyberchris01/configure-ad)
 - <b>Active Directory</b> 🔐
   - [Deploying Active Directory](https://github.com/cyberchris01/ad-deploy)
   - [Creating Users with PowerShell](https://github.com/cyberchris01/ad-users-powershell)
