@@ -16,7 +16,7 @@
   - [Creating Users with PowerShell](https://github.com/cyberchris01/ad-users-powershell)
   - [Group Policy and Managing Accounts](https://github.com/cyberchris01/ad-group-policy-accounts)
   - [Understanding DNS with Active Directory](https://github.com/cyberchris01/ad-dns)
-  - [Configuring Network File Sares and Permissions](https://github.com/cyberchris01/ad-fileshares-permissions)
+  - [Configuring Network File Sares and Permissions](https://github.com/cyberchris01/ad-netshares-permissions)
 
 <h2>🤳Connect with me:</h2>
 
