@@ -7,6 +7,7 @@
    - [Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/cyberchris01/azure-network-protocols)
    - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cyberchris01/configure-ad)
 - <b>Active Directory</b> 🔐
+  - [Deploying Active Directory](https://github.com/cyberchris01/ad-deploy)
   - [Creating Users with PowerShell](https://github.com/cyberchris01/ad-users-powershell)
   - [Managing Accounts & Group Policy Objects](https://github.com/cyberchris01/ad-group-policy-accounts)
   - [Understanding DNS with Active Directory](https://github.com/cyberchris01/ad-dns)
