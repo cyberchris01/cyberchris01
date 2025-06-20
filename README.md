@@ -14,7 +14,7 @@
   - [VPN Setup and Usage (ProtonVPN)](https://github.com/cyberchris01/vpn-setup-usage)
 - <b>Active Directory</b> 🔐
   - [Creating Users with PowerShell](https://github.com/cyberchris01/ad-users-powershell)
-  - [Managing Accounts and Group Policies](https://github.com/cyberchris01/ad-group-policy-accounts)
+  - [Managing Accounts & Group Policy Objects](https://github.com/cyberchris01/ad-group-policy-accounts)
   - [Understanding DNS with Active Directory](https://github.com/cyberchris01/ad-dns)
   - [Configuring Network File Sares and Permissions](https://github.com/cyberchris01/ad-netshares-permissions)
 
