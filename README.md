@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b> ☁️
-   - [Creating Resources (Windows and Linux Virtual Machines) in Azure](https://github.com/cyberchris01/azure-resources)
+   - [Creating Resources (Windows & Linux Virtual Machines) in Azure](https://github.com/cyberchris01/azure-resources)
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cyberchris01/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b> 🏷️
   - [osTicket: Prerequisites and Installation](https://github.com/cyberchris01/osticket-prereqs)
