@@ -11,7 +11,7 @@
   - [Creating Users with PowerShell](https://github.com/cyberchris01/ad-users-powershell)
   - [Managing Accounts & Group Policy Objects](https://github.com/cyberchris01/ad-group-policy-accounts)
   - [Understanding DNS with Active Directory](https://github.com/cyberchris01/ad-dns)
-  - [Configuring Network File Sares & Permissions](https://github.com/cyberchris01/ad-netshares-permissions)
+  - [Configuring Network File Shares & Permissions](https://github.com/cyberchris01/ad-netshares-permissions)
 - <b>osTicket (Help Desk Ticketing System)</b> 🏷️
   - [osTicket: Prerequisites & Installation](https://github.com/cyberchris01/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/cyberchris01/post-install-config)
