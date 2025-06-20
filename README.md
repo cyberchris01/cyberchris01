@@ -14,7 +14,7 @@
 - <b>Active Directory</b> 🔐
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cyberchris01/configure-ad)
   - [Creating Users with PowerShell](https://github.com/cyberchris01/ad-users-powershell)
-  - [Group Policy and Managing Accounts](https://github.com/cyberchris01/ad-group-policy-accounts)
+  - [Managing Accounts and Group Policies](https://github.com/cyberchris01/ad-group-policy-accounts)
   - [Understanding DNS with Active Directory](https://github.com/cyberchris01/ad-dns)
   - [Configuring Network File Sares and Permissions](https://github.com/cyberchris01/ad-netshares-permissions)
 
